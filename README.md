@@ -52,3 +52,8 @@ employment strategy: This indicates the status of a national strategy for youth 
 5. Limited liability companies should be encouraged by creating a conducive business environment and providing financial incentives.
 6. Other factors such as technological advancement, globalizations trends, as well as changes in consumer behaviour should be looked into to ascertain their impacts on the rate of unemployment in Africa.
 7. Implement initiative which can contribute to the overall economic development such as infrastructural development, Education, healthcare system.
+
+Thank you for reading through. Feel free to interact with my dashboard https://app.powerbi.com/groups/me/reports/b0337025-6869-445c-b905-1abe296a1958/ReportSection?experience=power-bi
+
+
+
