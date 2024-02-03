@@ -6,7 +6,6 @@
 
 ![Unemployment 3](https://github.com/Chisom0089/Unravelling-the-Challenges-of-Unemployment-in-Africa-A-Data_Driven-Approach/assets/138637505/310fac07-f81e-44d1-b15e-e7bc1220089f)
 
-![Unemployment 4](https://github.com/Chisom0089/Unravelling-the-Challenges-of-Unemployment-in-Africa-A-Data_Driven-Approach/assets/138637505/66dbd1ee-da44-40f1-89a0-0e4f76566f14)
 
 # Introduction
 Unemployment remains one of the most daunting challenges facing African nations today. It is a multifaceted problem with deep roots in socio-economic, educational, and policy-related factors. The African population has drastically increased over the years causing the number of unemployed persons especially the youths to increase. 
