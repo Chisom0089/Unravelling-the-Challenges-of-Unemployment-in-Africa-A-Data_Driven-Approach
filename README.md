@@ -13,13 +13,17 @@ Unemployment remains one of the most daunting challenges facing African nations 
 # Problem Statement
 The primary goal of this case study is to analyze data, identify patterns, and propose informed, data-driven recommendations that governments and stakeholders can implement to effectively address and reduce unemployment rates, particularly focusing on the African context. It leverages the use of diverse datasets to uncover valuable insights and strategies that contribute to the achievement of the Sustainable Development Goal.
 
-# Data Sourcing
-The Dataset used in this analysis can be seen [here](https://drive.google.com/drive/folders/1xnM2OMZITtjWJSrytSHBQKWGLt5PdwDl?sender_ctype=email&sender_campaign=aOo5Yr&sender_customer=E88Op7v). It comprises of six different tables containing the Unemployment-rate-men-vs-women, national-strategy-for-youth-employment, Share-of-Education-in-Government-Expenditure, Share-of-the-population-with-access-to-electricity, Total_firms_Historic_data and the country code.
+# Data Overview
+I was challenged with six diverse datasets, each offering a unique perspective on factors influencing unemployment, they include:
+1. Unemployment Rate (Men vs. Women): This dataset provides a comparative view of unemployment rates between genders.
+2. National Strategy for Youth Employment: This dataset outlines various national strategies adopted across different African countries to combat youth unemployment.
+3. Share of Education in Government Expenditure: Education is a critical factor in employment. This dataset sheds light on how much governments are investing in education.
+4. Population with Access to Electricity: Access to electricity is a fundamental driver of economic development and can influence employment opportunities. This dataset provides insights into the availability of electricity across different regions and its potential impact on employment.
+5. Total Firms (Historical Data): The health of a country's private sector is directly linked to employment rates. This dataset includes historical data on the number of firms.
+6. Country Codes: This dataset is essential for mapping data points to specific African countries, enabling a more precise and geographically contextual analysis.
 
-# Data Cleaning
-Tools used for Data Cleaning
-- Power BI (Power query Editor)
-I loaded the six tables into Power Query Editor for transformation and cleaning. I started by clearing all sorts of formatting in the tables and renamed column and table names to short and readable names, ensured consistency in the names of countries provided, Removed outliers (dates with negative values) and empty rows, checked for duplicates and null values, Removed unnecessary statements in some tables. I created new column for the National strategy using the conditional column feature. After cleaning the tabes seperately, I merged the first 5 datasets to get a consolidated datasets for further analysis and visualization in Power BI. 
+# Data Cleaning and transformation
+I loaded the six tables into Power Query Editor in Power BI for transformation and cleaning. I started by clearing all sorts of formatting in the tables and renamed column and table names to short and readable names, ensured consistency in the names of countries provided, Removed outliers (dates with negative values), unnecessary columns and empty rows, replaced null values with '0', checked for duplicates value, removed unnecessary statements in some tables. I created new column for the National strategy using the conditional column feature. After cleaning the tabes individually, I merged the first 5 datasets to get a consolidated datasets for further analysis and visualization in Power BI.
 
 # Attributes of the Data
 1. Entity: This field represents the country or region
