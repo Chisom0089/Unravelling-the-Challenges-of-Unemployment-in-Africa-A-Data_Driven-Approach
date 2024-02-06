@@ -23,7 +23,7 @@ I was challenged with six diverse datasets, each offering a unique perspective o
 6. Country Codes: This dataset is essential for mapping data points to specific African countries, enabling a more precise and geographically contextual analysis.
 
 # Data Cleaning and transformation
-I loaded the six tables into Power Query Editor in Power BI for transformation and cleaning. I started by clearing all sorts of formatting in the tables and renamed column and table names to short and readable names, ensured consistency in the names of countries provided, Removed outliers (dates with negative values), unnecessary columns and empty rows, replaced null values with '0', checked for duplicates value, removed unnecessary statements in some tables. I created new column for the National strategy using the conditional column feature. After cleaning the tabes individually, I merged the first 5 datasets to get a consolidated datasets for further analysis and visualization in Power BI.
+I loaded the six datasets into Power Query Editor in Power BI for transformation and cleaning. I started by clearing all sorts of formatting in the tables and renamed column and table names to short and readable names, ensured consistency in the names of countries provided, Removed outliers (dates with negative values), unnecessary columns and empty rows, replaced null values with '0', checked for duplicates value, removed unnecessary statements in some tables. I created new column for the National strategy using the conditional column feature. After cleaning the tabes individually, I merged the first 5 datasets to get a consolidated datasets for further analysis and visualization in Power BI.
 
 # Attributes of the Data
 1. Entity: This field represents the country or region
